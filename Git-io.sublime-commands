@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Git-io: Shorten a GitHub.com URL",
+        "command": "sublime_gitio"
+    }
+]
