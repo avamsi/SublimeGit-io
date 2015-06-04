@@ -1,8 +1,10 @@
+# encoding: utf-8
+
 import sys
 PY3 = sys.version > '3'
 
 git_url = 'http://git.io/'
-caption = '[Enter a GitHub.com URL]  ' + b'\xe2\x96\x88'.decode('utf-8')
+caption = '[Enter a GitHub.com URL]  █'
 url_msg = 'Git-io: Must be a GitHub.com URL.'
 err_msg = 'Git-io: Error contacting git.io'
 
